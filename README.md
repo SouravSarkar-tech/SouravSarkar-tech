@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">Hi There! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sourav</h1>
 <h4 align="center">DevOps Consultant & Tech Enthusiast | Automating pipelines, crafting UIs, and always chasing the next big thing</h4>
+<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 </div>
 
 <div>
