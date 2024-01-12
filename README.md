@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+There!+,+I'm+Sourav+%F0%9F%91%8B;DevOps+Consultant;Front-End+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
 <hr>
@@ -132,6 +134,5 @@ Here are some 🦜 Parrots:
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=StackOverflow)](https://stackoverflow.com/users/22870816/sourav?tab=topactivity)
 
 <!--Footer--> 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
