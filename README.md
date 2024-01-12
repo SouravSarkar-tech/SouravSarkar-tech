@@ -22,10 +22,10 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
-
+  <a href="https://open.spotify.com/user/11153360645">
+    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify"  style=" height: 250px; top: -50px" />
+  </a>
+ 
 <div>
   <samp>
     <h2 align="center"> Github Stats </h2>
