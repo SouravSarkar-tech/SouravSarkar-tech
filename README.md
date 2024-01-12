@@ -57,7 +57,18 @@
      </samp>
   </div>    
 
+<!--Dynamic Quote card updated everyday at 12 PM--> 
+<h2 align="left">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="left">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+
 <hr>
+
 
 Here are some 🦜 Parrots:
 <div>
@@ -99,4 +110,7 @@ Here are some 🦜 Parrots:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sourav-sarkar-1a10b6181)
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=StackOverflow)](https://stackoverflow.com/users/22870816/sourav?tab=topactivity)
 
-
+<!--Footer--> 
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
