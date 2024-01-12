@@ -33,6 +33,7 @@
 
 ### 👨‍💻 Languages and Tools
 
+![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Kubernetes-1572B6?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/Terraform-1572B6?style=for-the-badge&logo=terraform&logoColor=white)
@@ -44,6 +45,7 @@
 ![](https://img.shields.io/badge/AzureDevOps-1572B6?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-Actions-1572B6?style=for-the-badge&logo=github-actions&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Redux-1572B6?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
