@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+There!+,+I'm+Sourav+%F0%9F%91%8B;DevOps+Consultant;Front-End+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
 <hr>
@@ -125,6 +126,9 @@ Here are some 🦜 Parrots:
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+## 😂 Watch a 🐍 eating my contributions!
+
+<img width=100% src="https://raw.githubusercontent.com/SouravSarkar-tech/SouravSarkar-tech/643a9f0e3ba5ea74baac848623bfb3d90b3b9150/grid-snake.svg"/>
 
 ## <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> Know more about me 👋</b>
 
