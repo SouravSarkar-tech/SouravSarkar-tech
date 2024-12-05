@@ -31,6 +31,11 @@
 - ❤ Unleashed Enthusiasm: As passionate about life as I am about code, cheering on my football team with unbridled fervor.
 <!--End Intro-->
 
+<div>
+<h3 align="left">GitHub Certifications:</h3>
+<a herf="https://www.credly.com/badges/0fcec575-6bd6-4047-8065-7e4b3a920331/public_url" target="_blank"><img src="https://images.credly.com/size/150x150/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" target="_blank"></a>
+</div>
+
 ### 👨‍💻 Languages and Tools
 
 ![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
