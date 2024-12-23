@@ -38,7 +38,7 @@
 </a>
 
 <a href="https://www.credly.com/badges/f16ed8a4-0d07-4162-b2af-76378f1c42e4/public_url" target="_blank">
-  <img src="https://images.credly.com/size/150x150/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="Credly Badge" target="_blank>
+  <img src="https://images.credly.com/size/150x150/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="Credly Badge" >
 </a>
 
 ### 👨‍💻 Languages and Tools
