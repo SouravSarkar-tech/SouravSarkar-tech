@@ -37,6 +37,10 @@
   <img src="https://images.credly.com/size/150x150/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="Credly Badge">
 </a>
 
+<a href="https://www.credly.com/badges/f16ed8a4-0d07-4162-b2af-76378f1c42e4/public_url" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="Credly Badge">
+</a>
+
 ### 👨‍💻 Languages and Tools
 
 ![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
