@@ -32,15 +32,6 @@
 <!--End Intro-->
 
 ### GitHub Certifications
-<div>
-<a href="https://www.credly.com/badges/0fcec575-6bd6-4047-8065-7e4b3a920331/public_url" target="_blank">
-  <img src="https://images.credly.com/size/150x150/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="Credly Badge" target="_blank>
-</a>
-
-<a href="https://www.credly.com/badges/f16ed8a4-0d07-4162-b2af-76378f1c42e4/public_url" target="_blank">
-  <img src="https://images.credly.com/size/150x150/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="Credly Badge">
-</a>
-</div>
 
 <div>
   <a href="https://www.credly.com/badges/0fcec575-6bd6-4047-8065-7e4b3a920331/public_url" target="_blank">
