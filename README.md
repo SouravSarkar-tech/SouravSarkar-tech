@@ -34,12 +34,10 @@
 ### GitHub Certifications
 
 <div>
-  <a href="https://www.credly.com/badges/0fcec575-6bd6-4047-8065-7e4b3a920331/public_url" target="_blank" style="float: left;>
-    <img src="https://images.credly.com/size/150x150/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="Credly Badge">
-  </a><a href="https://www.credly.com/badges/f16ed8a4-0d07-4162-b2af-76378f1c42e4/public_url" target="_blank" style="float: left;>
-    <img src="https://images.credly.com/size/150x150/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="Credly Badge">
-  </a>
+<a href="https://www.credly.com/badges/0fcec575-6bd6-4047-8065-7e4b3a920331/public_url" target="_blank"><img src="https://images.credly.com/size/150x150/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="Credly Badge"></a>
+<a href="https://www.credly.com/badges/f16ed8a4-0d07-4162-b2af-76378f1c42e4/public_url" target="_blank"><img src="https://images.credly.com/size/150x150/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="Credly Badge"></a>
 </div>
+
 
 
 ### 👨‍💻 Languages and Tools
@@ -87,18 +85,14 @@
         <p align="center">
           <a href="https://github.com/SouravSarkar-tech/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SouravSarkar-tech&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SouravSarkar-tech&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by repo" /><img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SouravSarkar-tech&theme=gruvbox&layout=compact&hide_border=true"
           alt="SouravSarkar-tech :: Top Langs by commit" />
           </a>
         </p>
 
   <summary><h3>Stasistics</h3></summary>
         <p align="center">
-          <a href="https://github.com/SouravSarkar-tech/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SouravSarkar-tech&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SouravSarkar-tech&theme=gruvbox&hide_border=true" />
-          </a>
+          <a href="https://github.com/SouravSarkar-tech/"><img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SouravSarkar-tech&show_icons=true&theme=gruvbox&hide_border=true" /><img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SouravSarkar-tech&theme=gruvbox&hide_border=true" /></a>
        </p>
      <br>
      </samp>
