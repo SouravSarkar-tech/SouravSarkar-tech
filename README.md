@@ -41,9 +41,10 @@
 <a href="https://www.credly.com/badges/cb064ece-acd4-4c63-9702-175669c7b2db/public_url" target="_blank"><img src="https://images.credly.com/size/160x160/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" alt="Credly Badge"></a>
 </div>
 
-### Microsoft Certifications
+### Other Certifications
 
 <div>
+<a href="https://www.credly.com/badges/162490f3-2991-48ba-97ab-a3dcad31c9eb/public_url" target="_blank"><img src="https://images.credly.com/size/160x160/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="Credly Badge"></a>
 <a href="https://learn.microsoft.com/en-us/users/souravsarkar-9591/credentials/13cfea9483ee6647?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank"><img src="https://images.credly.com/size/160x160/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Credly Badge"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/SouravSarkar-9591/9171C26AA2F23CA?sharingId=72266485243B4ACC" target="_blank"><img src="https://images.credly.com/size/160x160/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="Credly Badge"></a>
 </div>
