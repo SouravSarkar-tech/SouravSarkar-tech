@@ -47,6 +47,7 @@
 <a href="https://www.credly.com/badges/162490f3-2991-48ba-97ab-a3dcad31c9eb/public_url" target="_blank"><img src="/KCNA-BADGE.png" alt="KCNA Badge" width="160" height="160"></a>
 <a href="https://learn.microsoft.com/en-us/users/souravsarkar-9591/credentials/13cfea9483ee6647?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank"><img src="https://images.credly.com/size/160x160/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="AZ-104 Badge"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/SouravSarkar-9591/9171C26AA2F23CA?sharingId=72266485243B4ACC" target="_blank"><img src="https://images.credly.com/size/160x160/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="AZ-400 Badge"></a>
+<a href="https://www.credly.com/badges/ca62ea9c-c8f5-4c33-a71f-605bb31a071b/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/33f08b7e-fa6a-41cd-810a-21cc1c336f6d/image.png" alt="GCP-DevOps Badge" width="160" height="160"></a>
 </div>
 
 
